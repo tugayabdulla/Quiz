@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quiz_app_name">QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="start">Start</string>
+    <string name="btn_next_question">Go to the next question</string>
+    <string name="btn_submit">Submit</string>
+    <string name="progress_text">%1$d/10</string>
+    <string name="btn_finish">Finish</string>
+    <string name="congrats">Hey, Congratulations!</string>
+    <string name="score">You have scored %1$d out of 10 questions</string>
+    <string name="alert_dialog_message">Do you want to leave app? You won\'t be able to continue where you left off</string>
+    <string name="alert_dialog_title">Leave App</string>
+    <string name="yes">YES</string>
+    <string name="leaderboard_score">Score</string>
+    <string name="leaerboard_username">Username</string>
+    <string name="leaderboard_rank">Rank</string>
+    <string name="trophy_image_description">trophy image</string>
+    <string name="result_result">Result</string>
+</resources>
